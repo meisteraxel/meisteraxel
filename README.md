@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @meisteraxel
 - 👀 I’m interested in becoming a Software Developer
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python/HTML/CSS/Javascript
 
 
 <!---
