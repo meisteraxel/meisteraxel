@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @meisteraxel
-- 🌱 I’m currently learning Python/HTML/CSS/Javascript
+- 🌱 I’m currently learning HTML/CSS/Javascript
 
 
 <!---
