@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @meisteraxel
-- 🌱 I’m currently learning HTML/CSS/Javascript/REACT
+- 👋 Hi, I’m @meisteraxel a Webflow Developer
+- 🌱 I’m currently learning HTML/CSS/Javascript/REACT to dive deeper into the world of Coding
 
 
 <!---
