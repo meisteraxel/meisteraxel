@@ -1,7 +1,7 @@
 <h1>Hi 👋, I'm Axel</h1>
 <h4>I'm a passionate frontend developer from Germany. Currently on an exciting journey of mastering Javascript and diving deep into the world of React. 🚀 Feel free to explore my repositories. Let's connect, collaborate, and build the future of the web together! 🚧✨</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, Tailwind, Javascript, React**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, React**
 
 - 📫 How to reach me **meister.axel@gmail.com**
 
