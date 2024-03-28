@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Axel</h1>
-<p>I'm a passionate frontend developer from Germany. Feel free to explore my repositories. Let's connect, collaborate, and build together! 🚧✨</p>
+<p>I'm a passionate frontend developer from Germany. Feel free to explore my repositories. 
+  Let's connect, collaborate, and build together! 🚧✨</p>
 
 - 🌱 I’m currently learning **HTML, CSS, Javascript, React**
 
