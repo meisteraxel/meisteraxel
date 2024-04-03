@@ -3,7 +3,7 @@
 
 <p align="center">- I’m currently learning HTML, CSS, Tailwind, Javascript, Typescript and React -</p>
 
-<p align="center">- How to reach me meister.axel@gmail.com -</p>
+<p align="center">- How to reach me: meister.axel@gmail.com -</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
