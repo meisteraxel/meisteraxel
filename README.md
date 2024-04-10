@@ -3,16 +3,6 @@
 
 📧 contact me → [meister.axel@gmail.com](mailto:meister.axel@gmail.com)
 
-
-<p>Tech Stack</p>
-
-- HTML/CSS/Javascript
-- React
-- TailwindCSS
-- Typescript
-- GIT
-- Figma
-
 <p>Projects</p> 
 
 - [thefrontendquiz](https://github.com/meisteraxel/frontend-quiz) → a Quiz for different FE Languages and Frameworks - build with basic HTML/CSS/JS
