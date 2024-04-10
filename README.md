@@ -4,11 +4,9 @@
 📧 contact me → [meister.axel@gmail.com](mailto:meister.axel@gmail.com)
 
 
-<p>Languages and Tools:</p>
+<p>Tech Stack</p>
 
-- HTML
-- CSS
-- JavaScript
+- HTML/CSS/Javascript
 - React
 - TailwindCSS
 - Typescript
