@@ -5,7 +5,7 @@
 
 <p>Projects</p> 
 
-- [rohmilch-kaufen](https://github.com/meisteraxel/rohmilch-kaufen.de) → a website where users can search for rohmilchstationen nearby - build with React and Airtable 
+- [rohmilch-kaufen](https://github.com/meisteraxel/rohmilch-kaufen.de) → a website where users can search for rohmilchstationen nearby - build with React, TailwindCSS and Airtable 
 - [thefrontendquiz](https://github.com/meisteraxel/frontend-quiz) → a Quiz for different FE Languages and Frameworks - build with basic HTML/CSS/JS
 - [expenses-tracker](https://github.com/meisteraxel/expenses-chart) → track your weekly budget and expenses - build with React
 - [age-calculator-app](https://github.com/meisteraxel/age-calculator-app-main) → Calculate your Age in Years/Month/Days - build with basic HTML/CSS/JS
