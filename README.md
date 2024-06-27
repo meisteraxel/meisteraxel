@@ -14,7 +14,5 @@
 - [weather-app](https://github.com/meisteraxel/weather-app) → a Weather App using the Open Weather API build with React
 - [movie-watchlist](https://github.com/meisteraxel/movie-watchlist) → Search the OMDB Database for movies and save them to your personal Watchlist
 
-- 
-
 
 
